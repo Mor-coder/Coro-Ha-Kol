@@ -1,0 +1,92 @@
+body {
+  background: #020414;
+}
+
+.logo {
+  width: 130px;
+}
+
+nav {
+  margin-top: 20px;
+}
+
+nav ul {
+  padding: 0;
+  margin: 0;
+}
+nav li {
+  display: inline;
+  list-style: none;
+  line-height: 42px;
+  margin-left: 15px;
+  margin-right: 10px;
+}
+nav a {
+  text-decoration: none;
+  color: #f2da09;
+  transition: all 100ms ease-in-out;
+  font-family: "Bodoni Moda", serif;
+}
+
+nav a:hover {
+  color: #e2b81d;
+}
+
+h1 {
+  font-family: "Bodoni Moda", serif;
+  color: #f2da09;
+  text-align: center;
+  font-size: 40px;
+  padding-top: 10px;
+  text-align: center;
+  margin-top: 20px;
+}
+
+h2 {
+  font-size: 20px;
+  font-family: "Bodoni Moda", serif;
+  color: #f2da09;
+  text-align: center;
+  padding-bottom: 10px;
+  margin-bottom: 20px;
+}
+
+footer h3 {
+  font-family: "Bodoni Moda", serif;
+  text-align: center;
+  color: #f2da09;
+}
+
+footer h4 {
+  font-family: "Bodoni Moda", serif;
+  text-align: center;
+  margin-left: 15px;
+  font-size: 18px;
+  color: #f2da09;
+}
+
+section img {
+  display: block;
+  margin: 0 auto;
+  text-align: start;
+  padding: 20px;
+  width: 700px;
+  border-radius: 3px;
+}
+
+footer {
+  padding-top: 20px;
+  margin-top: 70px;
+}
+
+.social i {
+  margin-top: 20px;
+  padding: 10px;
+  display: inline;
+  color: #f2da09;
+  font-size: 35px;
+}
+
+.social a {
+  text-decoration: none;
+}
