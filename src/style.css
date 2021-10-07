@@ -51,6 +51,20 @@ h2 {
   margin-bottom: 20px;
 }
 
+p {
+  font-size: 15px;
+  font-family: "Bodoni Moda", serif;
+  color: #f2da09;
+  text-align: justify;
+}
+
+.choir-formation {
+  font-size: 15px;
+  font-family: "Bodoni Moda", serif;
+  color: #f2da09;
+  text-align: justify;
+}
+
 footer h3 {
   font-family: "Bodoni Moda", serif;
   text-align: center;
