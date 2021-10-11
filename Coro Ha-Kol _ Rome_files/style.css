@@ -19,7 +19,6 @@ nav li {
   list-style: none;
   line-height: 42px;
   margin-left: 15px;
-  margin-right: 10px;
 }
 nav a {
   text-decoration: none;
@@ -51,30 +50,11 @@ h2 {
   margin-bottom: 20px;
 }
 
-p {
-  font-size: 15px;
-  font-family: "Bodoni Moda", serif;
-  color: #f2da09;
-  text-align: justify;
-}
-
-.choir-formation {
-  font-size: 15px;
-  font-family: "Bodoni Moda", serif;
-  color: #f2da09;
-  text-align: justify;
-}
-
-footer h3 {
-  font-family: "Bodoni Moda", serif;
-  text-align: center;
+h3 {
   color: #f2da09;
 }
 
-footer h4 {
-  font-family: "Bodoni Moda", serif;
-  text-align: center;
-  margin-left: 15px;
+h4 {
   font-size: 18px;
   color: #f2da09;
 }
@@ -98,7 +78,6 @@ footer {
   padding: 10px;
   display: inline;
   color: #f2da09;
-  font-size: 35px;
 }
 
 .social a {
