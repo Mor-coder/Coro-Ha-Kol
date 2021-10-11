@@ -44,7 +44,7 @@ h1,
 h2,
 h3,
 h4 {
-  font-family: "Bodoni Moda", serif;
+  font-family: var(--branding-font);
   color: var(--branding-color);
   text-align: center;
   font-size: 40px;
@@ -78,8 +78,9 @@ p {
 }
 
 p a {
-  font-size: 15px;
+  font-size: 18px;
   font-family: "Bodoni Moda", serif;
+  text-decoration: none;
   color: var(--text-color);
 }
 
@@ -147,10 +148,14 @@ footer a {
   text-decoration: none;
 }
 
+footer a:hover {
+  color: #0000cc;
+}
+
 footer p {
   font-size: 18px;
   font-family: var(--second-branding-font);
-  color: #0000cc;
+  color: black;
   text-decoration: none;
 }
 
@@ -163,7 +168,7 @@ footer {
   margin-top: 20px;
   padding: 10px;
   display: inline;
-  color: var(--branding-color);
+  color: #0000cc;
   font-size: 35px;
 }
 
